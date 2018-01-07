@@ -10,5 +10,6 @@ public class TestController {
 //        System.out.println("****");
         //返回一个index.jsp这个视图
         return "testJSP";
+        //hello idea
     }
 }
